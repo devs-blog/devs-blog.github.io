@@ -4,6 +4,7 @@ author: Dev's Blog
 date: 2021-04-23 19:00:00
 categories: [Blogging]
 tags: [starter]
+math: false
 pin: true
 image:
   src: /assets/img/devs-blog-thumbnail.png
